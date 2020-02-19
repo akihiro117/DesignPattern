@@ -2,6 +2,12 @@ package iterator;
 
 import java.util.Arrays;
 
+/**
+ * レストランのリスト(配列)を扱うクラス。
+ * 繰り返し処理以外の責務を負う。
+ * @author Akihiro Yamada
+ *
+ */
 public class RestaurantArray implements Aggregate {
     // 配列の要素数を超える場合に、一度に増加させる要素数。
     private static final int INCREMENTAL_NUM = 5;
@@ -31,8 +37,7 @@ public class RestaurantArray implements Aggregate {
 
     @Override
     public Iterator createIterator() {
-        // TODO 自動生成されたメソッド・スタブ
-        return null;
+        return new RestaurantArrayIterator(restaurantArray);
     }
 
 }
