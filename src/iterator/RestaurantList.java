@@ -21,6 +21,6 @@ public class RestaurantList implements Aggregate {
     }
 
     public Iterator createIterator() {
-        return new RestaurantIterator(this.restaurantList);
+        return new RestaurantListIterator(this.restaurantList);
     }
 }
