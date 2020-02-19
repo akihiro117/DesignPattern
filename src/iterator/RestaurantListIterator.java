@@ -7,11 +7,11 @@ import java.util.List;
  * @author Akihiro Yamada
  *
  */
-public class RestaurantIterator implements Iterator {
+public class RestaurantListIterator implements Iterator {
     private List<Restaurant> restaurants;
     private int currentIndex;
 
-    public RestaurantIterator(List<Restaurant> restaurants) {
+    public RestaurantListIterator(List<Restaurant> restaurants) {
         this.restaurants = restaurants;
     }
 
