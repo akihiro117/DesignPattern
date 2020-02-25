@@ -6,4 +6,5 @@
 
 ### ソースコードへのリンク
 - [Iterator パターン](src/iterator)
-- [adapter パターン](src/adapter)
+- [Adapter パターン](src/adapter)
+- [Template Method パターン](src/templatemethod)
