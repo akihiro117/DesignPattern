@@ -8,3 +8,4 @@
 - [Iterator パターン](src/iterator)
 - [Adapter パターン](src/adapter)
 - [Template Method パターン](src/templatemethod)
+- [Factory Method パターン](src/factorymethod)
