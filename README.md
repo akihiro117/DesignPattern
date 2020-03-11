@@ -9,3 +9,4 @@
 - [Adapter パターン](src/adapter)
 - [Template Method パターン](src/templatemethod)
 - [Factory Method パターン](src/factorymethod)
+- [Singleton パターン](src/singleton)
