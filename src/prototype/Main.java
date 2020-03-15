@@ -20,13 +20,16 @@ class Main {
 
         // 元となったインスタンスの値が変わっているか確認。
         // 実行結果 -> 変わっていない。
+        // TODO: shallow copy のはずなのになぜ？
         hamburger.showMsg();
         // 他の clone の値が変わっているか確認。
         // 実行結果 -> 変わっていない。
+        // TODO: shallow copy のはずなのになぜ？
         hamburger3.showMsg();
 
         // 後から生成した clone の値に反映されているか確認。
         // 実行結果 -> 反映されない。
+        // TODO: shallow copy のはずなのになぜ？
         Base hamburger4 = instanceGenerator.generateClone("ハンバーガー");
         hamburger4.showMsg();
     }
