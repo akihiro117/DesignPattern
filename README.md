@@ -11,3 +11,4 @@
 - [Factory Method パターン](src/factorymethod)
 - [Singleton パターン](src/singleton)
 - [Prototype パターン](src/prototype)
+- [Builder パターン](src/builder)
