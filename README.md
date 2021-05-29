@@ -12,3 +12,4 @@
 - [Singleton パターン](src/singleton)
 - [Prototype パターン](src/prototype)
 - [Builder パターン](src/builder)
+- [Abstract Factory パターン](src/abstractfactory)
