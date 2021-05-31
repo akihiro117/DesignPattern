@@ -1,7 +1,5 @@
 package abstractfactory.videofactory;
 
-import java.sql.Time;
-
 import abstractfactory.factory.Content;
 
 public class Video extends Content {

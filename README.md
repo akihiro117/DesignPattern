@@ -13,3 +13,4 @@
 - [Prototype パターン](src/prototype)
 - [Builder パターン](src/builder)
 - [Abstract Factory パターン](src/abstractfactory)
+- [Bridge パターン](src/bridge)
