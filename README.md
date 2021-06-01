@@ -14,3 +14,4 @@
 - [Builder パターン](src/builder)
 - [Abstract Factory パターン](src/abstractfactory)
 - [Bridge パターン](src/bridge)
+- [Strategy パターン](src/strategy)
