@@ -16,3 +16,4 @@
 - [Bridge パターン](src/bridge)
 - [Strategy パターン](src/strategy)
 - [Composite パターン](src/composite)
+- [Decorator パターン](src/decorator)
