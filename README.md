@@ -18,3 +18,4 @@
 - [Composite パターン](src/composite)
 - [Decorator パターン](src/decorator)
 - [Visitor パターン](src/visitor)
+- [Chain of Responsibility パターン](src/chainofresponsibility)
