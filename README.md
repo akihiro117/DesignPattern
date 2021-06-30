@@ -19,3 +19,4 @@
 - [Decorator パターン](src/decorator)
 - [Visitor パターン](src/visitor)
 - [Chain of Responsibility パターン](src/chainofresponsibility)
+- [Facade](src/facade)
