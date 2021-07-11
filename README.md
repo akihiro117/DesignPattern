@@ -21,3 +21,4 @@
 - [Chain of Responsibility パターン](src/chainofresponsibility)
 - [Facade パターン](src/facade)
 - [Mediator パターン](src/mediator)
+- [Observer パターン](src/observer)
