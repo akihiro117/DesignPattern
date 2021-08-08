@@ -24,3 +24,4 @@
 - [Observer パターン](src/observer)
 - [Memento パターン](src/memento)
 - [State パターン](src/state)
+- [Flyweight パターン](src/flyweight)
