@@ -1,6 +1,5 @@
 package proxy;
 
-import java.util.HashMap;
 import java.util.Map;
 
 public class ImageProxy implements ImageInterface {
