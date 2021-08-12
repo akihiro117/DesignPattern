@@ -26,3 +26,4 @@
 - [State パターン](src/state)
 - [Flyweight パターン](src/flyweight)
 - [Proxy パターン](src/proxy)
+- [Command パターン](src/command)
